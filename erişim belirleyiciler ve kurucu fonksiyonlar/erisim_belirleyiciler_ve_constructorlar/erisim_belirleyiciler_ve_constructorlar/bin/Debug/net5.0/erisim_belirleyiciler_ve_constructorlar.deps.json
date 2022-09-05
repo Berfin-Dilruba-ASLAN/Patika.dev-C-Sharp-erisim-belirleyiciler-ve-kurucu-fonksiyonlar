@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "erisim_belirleyiciler_ve_constructorlar/1.0.0": {
+        "runtime": {
+          "erisim_belirleyiciler_ve_constructorlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "erisim_belirleyiciler_ve_constructorlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
